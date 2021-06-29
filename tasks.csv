@@ -1,0 +1,4 @@
+Qty,Retailer,Proxy List,Query
+1,amazon,localhost,ASIN
+1,walmart,localhost,SKU
+1,yeezysupply,localhost,SKU
