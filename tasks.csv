@@ -1,4 +1,4 @@
-Qty,Retailer,Proxy List,Query
-1,amazon,localhost,ASIN
-1,walmart,localhost,SKU
-1,yeezysupply,localhost,SKU
+Qty,Retailer,Proxy List,Query,Config1
+1,amazon,localhost,ASIN,account email*
+1,walmart,localhost,SKU,catchall domain*
+1,yeezysupply,localhost,SKU,
