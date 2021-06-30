@@ -1,0 +1,2 @@
+Profile,Email,Phone,First Name,Last Name,Address,Address Line 2,City,State,Zip,Card Number,Card Expiry (M/YYYY),Card CVV
+test-card,kea@dosk.us,8001234567,Kinesis,Bot,123 Main Street,,Detroit,MI,48207,42424242242424242,7/2027,123
