@@ -1,4 +1,4 @@
 Qty,Retailer,Proxy List,Query,Config1
-1,amazon,localhost,ASIN,account email*
-1,walmart,localhost,SKU,catchall domain*
+1,amazon,localhost,ASIN:$750,account email*
+1,walmart,localhost,SKU:$30,catchall domain*
 1,yeezysupply,localhost,SKU,
